@@ -24,7 +24,11 @@ Command-line implementation:
 ## Sample gameplay
 Discord bot:
 
+<img width="374" alt="Screen Shot 2022-06-22 at 3 51 39 PM" src="https://user-images.githubusercontent.com/45871604/175168939-ae08f77a-79c1-4000-8442-3299756b5b33.png">
+
 Command-line implementation:
+
+<img width="779" alt="Screen Shot 2022-06-22 at 3 53 35 PM" src="https://user-images.githubusercontent.com/45871604/175169597-c468e7f3-1307-4af2-a59c-440c19080f80.png">
 
 ## Author
 Chidvi Doddi
