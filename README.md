@@ -21,6 +21,11 @@ Command-line implementation:
 
 2. Type ```java -jar blackjack3.jar``` to play the game. **If it doesn't work, make sure that you have java downloaded (https://www.java.com/en/)**
 
+## Sample gameplay
+Discord bot:
+
+Command-line implementation:
+
 ## Author
 Chidvi Doddi
 
