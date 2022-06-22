@@ -1,5 +1,5 @@
 # Blackjack Game Simulation
-Replication of the popular card game, BlackJack, that can be played on Terminal and as a Discord bot.
+Replication of the popular card game, BlackJack, that can be played on the command line and as a Discord bot.
 
 # User Manual
 The game will start you with $10,000 and you need to make a bet on the next round against the computer. Each round starts with you getting two cards and the computer getting two cards. The goal is to get the sum of your cards closest to 21 without going over. You can ask for another card if your total is under 21 by typing H(hit/add another card to hand) or S( to stay). If the sum of your cards is closer to 21 (than the sum of the computer’s cards), your bet is added to your total. If you don’t get closer or go over 21, then the bet is subtracted.
