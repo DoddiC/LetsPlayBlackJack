@@ -1,3 +1,2 @@
 *.java linguist-detectable = true
 *.python linguist-detectable = true
-*.haskell linguist-detectable = true
